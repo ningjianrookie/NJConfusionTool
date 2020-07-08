@@ -1,0 +1,6 @@
+has
+includes
+is
+provides
+wants
+continues
